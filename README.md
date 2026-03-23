@@ -6,7 +6,7 @@ Cristobal </a></h1>
 <p align="center">
 Soy estudiante de Ingeniería en Software con interés en el desarrollo backend y la creación de sistemas eficientes y escalables. 
 Me enfoco en la lógica de negocio, manejo de datos y construcción de APIs.
-</p>>
+</p>
 
 <p align="center">
 Actualmente aprendiendo: Desarrollo Backend y arquitectura de software <br>
@@ -77,8 +77,5 @@ Aplicación web para la gestión de ingresos y gastos personales, centrada en el
 
 
 
-<p align="center">
-<a href="www.linkedin.com/in/luis-ali-rios-cristobal-69498a372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cristobal" height="30" width="40" /></a>
-<a href="mailto:lriozcristobal@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
-</p>
+
 
