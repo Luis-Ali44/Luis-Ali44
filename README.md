@@ -46,12 +46,4 @@ Cristobal </a></h1>
 ### 📫 Contact
 
 - 📧 Email: lriozcristobal@gmail.com
-  
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
-<a href="www.linkedin.com/in/luis-ali-rios-cristobal-69498a372" target="blank">
-<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-<a href="https://github.com/Luis-Ali44" target="blank">
-<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-</p>
