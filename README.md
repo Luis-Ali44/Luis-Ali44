@@ -43,7 +43,7 @@ Cristobal </a></h1>
 
 
 
-### 📫 Contact
+### Contact
 
-- 📧 Email: lriozcristobal@gmail.com
+- Email: lriozcristobal@gmail.com
 
